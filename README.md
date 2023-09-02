@@ -1,0 +1,1 @@
+# Dar npm install y correr el comando "npm run start" y abrir en el puerto seleccionado
